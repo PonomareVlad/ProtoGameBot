@@ -1,5 +1,5 @@
 {
-  "name": "grammy-vercel",
+  "name": "proto-game-bot",
   "author": "Vladislav Ponomarev <PonomareVlad@users.noreply.github.com> (https://PonomareVlad.ru)",
   "funding": "https://PonomareVlad.ru/donate",
   "license": "MIT",
@@ -9,6 +9,8 @@
     "tunnel": "cloudflared tunnel --url http://localhost:3000"
   },
   "dependencies": {
+    "@grammyjs/conversations": "^1.1.1",
+    "@grammyjs/storage-free": "^2.2.0",
     "grammy": "^1.16.0"
   },
   "engines": {
