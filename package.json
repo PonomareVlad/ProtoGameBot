@@ -11,7 +11,7 @@
   "dependencies": {
     "@grammyjs/conversations": "^1.1.1",
     "@grammyjs/storage-free": "^2.2.0",
-    "grammy": "^1.16.0"
+    "grammy": "^1.17.1"
   },
   "engines": {
     "node": "^18.0.0"
