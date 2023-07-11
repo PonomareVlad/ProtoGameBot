@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@grammyjs/conversations": "^1.1.2",
-    "@grammyjs/storage-free": "^2.2.0",
+    "@grammyjs/storage-free": "^2.3.0",
     "grammy": "^1.17.2"
   },
   "engines": {
